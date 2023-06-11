@@ -1,18 +1,19 @@
-# smarthouse
-
 Simple Smart Home App
 
-## Getting Started
+This smarthouse app project allows users to control their home appliances and devices from their smartphone or tablet. Users can turn lights on and off, on and off smart Tv, smart fan, and more. 
 
-This project is a simple smart home app that allows users to control their smart home devices from one place
+This project was developed using the following technologies:
+dart
 
-features
- Simple user interface
- control the buttton on and off
+![A Screenshot](https://github.com/obaloluwaobi/SmarthouseUIdesign/assets/101903208/0c3d1ac2-3d94-4616-b050-655dcb877c56)
 
-you are welcome!!!
+A short video on Smarthouseui design
+https://github.com/obaloluwaobi/SmarthouseUIdesign/assets/101903208/2b282f04-8396-49b9-8efc-c5aeb5e4867b
 
 
+
+Note: The app is only a ui-design
+you can it a star if you like it!
 
 
 A few resources to get you started if this is your first Flutter project:
