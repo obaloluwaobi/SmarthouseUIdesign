@@ -12,8 +12,8 @@ https://github.com/obaloluwaobi/SmarthouseUIdesign/assets/101903208/2b282f04-839
 
 
 
-Note: The app is only a ui-design
-you can it a star if you like it!
+
+you can star it if you like it!🤩💜
 
 
 A few resources to get you started if this is your first Flutter project:
